@@ -1,12 +1,12 @@
 updated at Apr 25th, 2024
 
-# Ethereum Seoul Community
+***
 
 이더리움 서울 커뮤니티는 월 2회 소규모 밋업을 가지며, 다음 세가지의 소그룹을 가지고 있습니다.
 
-1. 시빅해커스클럽(Civic Hackers' Club)
-2. 오픈리서치클럽(Open Research Club)
-3. 이드콘한국 조직위원회(Ethcon Korea Organizers)
+1. [시빅해커스클럽(Civic Hackers' Club)](#civic-hackers-club)
+2. [오픈리서치클럽(Open Research Club)](#open-research-club)
+3. [이드콘한국 조직위원회(Ethcon Korea Organizers)](#ethcon-korea)
 
 ## Civic Hackers Club
 이더리움 서울 커뮤니티에서 2024년 5월 15일부터 Public Goods에 기여하고 해커톤에 참여하는 Civic Hackers Club을 운영합니다. Civic Hacker Club 참여 링크는 다음과 같습니다.
