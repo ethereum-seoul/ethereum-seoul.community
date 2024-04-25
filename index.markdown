@@ -12,7 +12,7 @@ layout: page
 3. [이드콘한국 조직위원회(Ethcon Korea Organizers)](/ethcon-korea)
 
 ### 5월 이더리움 서울 bi-weekly meetup 안내
-장소: Ethaewon Hacker House(EHH), 용산구 회나무로 60-1, https://maps.app.goo.gl/YPaoJ83eQyjNChP38
+장소: Ethaewon Hacker House(EHH), 용산구 회나무로 60-1, [https://maps.app.goo.gl/YPaoJ83eQyjNChP38](https://maps.app.goo.gl/YPaoJ83eQyjNChP38)
 
 #### 5월 1일 (수)
 **[rsvp only]**
