@@ -10,9 +10,13 @@ layout: page
 1. [시빅해커스클럽(Civic Hackers' Club)](/civic-hackers-club)
 2. [오픈리서치클럽(Open Research Club)](/open-research-club)
 3. [이드콘한국 조직위원회(Ethcon Korea Organizers)](/ethcon)
+
 <br/>
+
 ***
+
 <br/>
+
 ## Upcoming Event!
 
 #### 5월 31일 (금) - 퍼블릭 밋업 Share & Discuss
@@ -27,8 +31,11 @@ layout: page
 [참가 신청하기 / Register](https://forms.gle/xViZadpB2oDrJReA7)
 
 <br/>
+
 ***
+
 <br/>
+
 ## 6월 이더리움 서울 bi-weekly meetup 안내
 장소: Ethaewon Hacker House(EHH), 용산구 회나무로 60-1, [https://maps.app.goo.gl/YPaoJ83eQyjNChP38](https://maps.app.goo.gl/YPaoJ83eQyjNChP38)
 
@@ -50,9 +57,13 @@ layout: page
 
 **[open to the public]**
 * 20:00~21:30 **Share & Discuss**
+
 <br/>
+
 ***
+
 <br/>
+
 ## 5월 이더리움 서울 bi-weekly meetup 안내
 장소: Ethaewon Hacker House(EHH), 용산구 회나무로 60-1, [https://maps.app.goo.gl/YPaoJ83eQyjNChP38](https://maps.app.goo.gl/YPaoJ83eQyjNChP38)
 
