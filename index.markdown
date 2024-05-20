@@ -40,21 +40,16 @@ layout: page
   * Topic: Restaking
   * Pannels
     * TBD
-   
-***
-
-
-### 5월 이더리움 서울 bi-weekly meetup 안내
-장소: Ethaewon Hacker House(EHH), 용산구 회나무로 60-1, [https://maps.app.goo.gl/YPaoJ83eQyjNChP38](https://maps.app.goo.gl/YPaoJ83eQyjNChP38)
-
 
 #### 6월 28일 (금)
 **[rsvp only]**
-* 18:30~19:30 이드콘한국 2024 운영위원회 회의 #1
-* 19:30~21:00 Civic Hackers Club 1회 모임
+* 18:30~19:30 이드콘한국 2024 운영위원회 회의 #4
+* 18:30~20:00 오픈리서치클럽 3회 모임
 
 **[open to the public]**
-* 21:00~22:00 AMA  + Beer
+* 20:00~21:30 **Share & Discuss**
+
+***
 
 ### 5월 이더리움 서울 bi-weekly meetup 안내
 장소: Ethaewon Hacker House(EHH), 용산구 회나무로 60-1, [https://maps.app.goo.gl/YPaoJ83eQyjNChP38](https://maps.app.goo.gl/YPaoJ83eQyjNChP38)
