@@ -21,12 +21,17 @@ layout: page
 
 #### 5월 31일 (금) - 퍼블릭 밋업 Share & Discuss
 
+> [!IMPORTANT]  
+> AJ Jihoon Park(Radius) 지훈님께 불가피한 사정이 생겨 패널이 이더리움재단 임완섭 연구원으로 대체되었습니다.
+
 * 장소: Ethaewon Hacker House(EHH), 용산구 회나무로 60-1, [https://maps.app.goo.gl/YPaoJ83eQyjNChP38](https://maps.app.goo.gl/YPaoJ83eQyjNChP38)
 * 시간: 20:00pm - 21:30pm
 * 주제: Layer2 Sequencer들의 현황에 대해 공유하고 토론합니다.
 * 패널:
-    * AJ Jihoon Park(Radius)
     * Taem Park(Test In Prod)
+    * Wanseob Lim(PSE, EF)
+
+
 
 [참가 신청하기 / Register](https://forms.gle/xViZadpB2oDrJReA7)
 
@@ -94,6 +99,6 @@ layout: page
   * Topic: Layer2 & Sequencers 
   * Pannels:
     * AJ Jihoon Park(Radius)
-    * Taem Park(Test In Prod)
+    * Wanseob Lim(PSE, EF)
    
 
